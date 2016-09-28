@@ -6,7 +6,7 @@
 # 5. 
 
 # Set working directory
-setwd("~/Documents/R/Kaggle/Titanic/Data")
+setwd("~/Documents/R/Kaggle-Titanic/Data")
 
 # Load Raw Data
 train <- read.csv("train.csv", header = TRUE)
